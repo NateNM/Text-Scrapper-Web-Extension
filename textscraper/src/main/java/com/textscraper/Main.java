@@ -1,4 +1,4 @@
-package com.scraper;
+package com.textscraper;
 
 public class Main {
     public static void main(String[] args) {
